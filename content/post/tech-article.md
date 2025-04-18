@@ -1,7 +1,8 @@
 ---
-title: "Arch Linux 安装 Valkey 教程"
-date: 2025-04-18T22:20:00+08:00
-draft: true
+title: Arch Linux 安装 Valkey 教程
+date: 2025-04-18
+tags: ["Linux"]
+categories: ["技术"]
 ---
 
 ## Arch Linux 安装 Valkey 教程
